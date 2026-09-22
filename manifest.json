@@ -1,0 +1,15 @@
+{
+  "name": "Martina & Federico · Invitación",
+  "short_name": "M & F",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ec",
+  "theme_color": "#74846a",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

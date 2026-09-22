@@ -1,0 +1,17 @@
+ASSETS LOCALES
+===============
+
+assets/favicon.svg
+assets/audio/track-01.mp3
+assets/botanical/hero-desktop.jpg
+assets/botanical/hero-mobile.jpg
+assets/botanical/hero-desktop-full.png
+assets/botanical/hero-mobile-full.png
+assets/botanical/left-top.png
+assets/botanical/left-mid.png
+assets/botanical/left-bottom.png
+assets/botanical/top-right.png
+assets/botanical/right-mid.png
+assets/botanical/right-bottom.png
+
+La galería usa imágenes externas de Unsplash con fallback botánico local.
