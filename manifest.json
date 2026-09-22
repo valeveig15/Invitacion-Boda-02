@@ -1,0 +1,17 @@
+{
+  "name": "Martina & Federico · Invitación",
+  "short_name": "M&F",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#aebd83",
+  "description": "Invitación botánica de Martina y Federico",
+  "design": "Martina & Federico · Botánica · V3",
+  "revision": "v3",
+  "revision_notes": [
+    "Marco botánico de portada embebido en HTML mediante picture para visibilidad garantizada.",
+    "Nuevo icono animado de dress code.",
+    "Nuevo icono animado de confirmación de asistencia.",
+    "Cierre artedeco.studio significativamente ampliado."
+  ]
+}
